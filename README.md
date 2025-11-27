@@ -42,7 +42,6 @@ El código fue desarrollado para trabajar con las siguientes bases de datos de p
 - 📂 [Directorio de datos en Google Drive] (https://drive.google.com/drive/folders/11P81Wghr5bg1aoXZy2MfJH4IRUWzATlu?usp=drive_link)
   
 > El usuario debe descargar cada base de datos desde sus fuentes originales (o desde el enlace provisto por la autora) y ubicarlas en las carpetas esperadas por el código:
-```text
 TFG/
   CADDataset/
   CASIA-DDataset/
