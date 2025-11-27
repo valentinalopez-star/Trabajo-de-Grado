@@ -1,3 +1,17 @@
+# Datos pesados
 /CADDataset/
 /CASIA-DDataset/
 /StepUpDataset/
+
+# Entorno e IDE
+.venv/
+.idea/
+
+# Archivos de datos grandes
+*.mat
+*.nii
+*.npz
+
+# Caché de Python
+__pycache__/
+*.py[cod]
