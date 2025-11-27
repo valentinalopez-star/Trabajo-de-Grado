@@ -52,11 +52,11 @@ TFG/
 ## Requisitos
 - Python 3.9+
 - Bibliotecas principales:
-  -numpy
-  -opencv-python
-  -Pillow
-  -matplotlib (opcional, para visualizaciones)
-  -otras dependencias estándar indicadas en el código
+  - numpy
+  - opencv-python
+  - Pillow
+  - matplotlib (opcional, para visualizaciones)
+  - otras dependencias estándar indicadas en el código
 
 Se recomienda trabajar en un entorno virtual (venv) e instalar los paquetes con pip.
 
